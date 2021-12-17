@@ -1,0 +1,7 @@
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\practise1.exe
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\appsettings.Development.json
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\appsettings.json
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\practise1.dll
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\practise1.deps.json
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\practise1.runtimeconfig.json
+C:\Users\User\AppData\Local\Temp\rider-publish9094330583306745942\practise1.pdb
