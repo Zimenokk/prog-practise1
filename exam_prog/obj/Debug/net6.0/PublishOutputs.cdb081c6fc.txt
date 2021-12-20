@@ -1,0 +1,7 @@
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\exam_prog.exe
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\appsettings.Development.json
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\appsettings.json
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\exam_prog.dll
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\exam_prog.deps.json
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\exam_prog.runtimeconfig.json
+C:\Users\User\AppData\Local\Temp\rider-publish10317271730369580009\exam_prog.pdb
