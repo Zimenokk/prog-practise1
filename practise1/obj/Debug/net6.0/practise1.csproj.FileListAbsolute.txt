@@ -20,3 +20,7 @@ E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debu
 E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\ref\practise1.dll
 E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\practise1.pdb
 E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\practise1.genruntimeconfig.cache
+E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\practise1.RazorAssemblyInfo.cache
+E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\practise1.RazorAssemblyInfo.cs
+E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\3 курс\programming_Tech\labs\practise1\practise1\practise1\obj\Debug\net6.0\scopedcss\projectbundle\practise1.bundle.scp.css

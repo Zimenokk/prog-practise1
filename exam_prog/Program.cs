@@ -1,3 +1,6 @@
+using exam_prog;
+
+myprog.Main(args);
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

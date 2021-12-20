@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3aGlrn2cprVoPY0jNBy61OSChNt614fb0KrHC3sElU8=",
+  "Hash": "pe1Hmlph5u4usmJAZUHu7miogvnhkI5lYLqi6fMIdeI=",
   "Source": "practise1",
   "BasePath": "_content/practise1",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\practise1.styles.css",
+      "SourceId": "practise1",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/practise1",
+      "RelativePath": "practise1.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\practise1.styles.css"
+    },
+    {
+      "Identity": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\practise1.bundle.scp.css",
+      "SourceId": "practise1",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/practise1",
+      "RelativePath": "practise1.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\practise1.bundle.scp.css"
+    },
     {
       "Identity": "E:\\Study\\3 курс\\programming_Tech\\labs\\practise1\\practise1\\practise1\\wwwroot\\Для записки\\photo_2020-10-13_12-28-12.jpg",
       "SourceId": "practise1",
