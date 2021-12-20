@@ -1,0 +1,7 @@
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\webapp2.exe
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\appsettings.Development.json
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\appsettings.json
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\webapp2.dll
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\webapp2.deps.json
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\webapp2.runtimeconfig.json
+C:\Users\User\AppData\Local\Temp\rider-publish12310563483699994192\webapp2.pdb
